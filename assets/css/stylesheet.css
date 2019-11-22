@@ -41,6 +41,21 @@ body {
     border-color: lightgray;
     padding: 0px 5px;
 }
+.pagelink a:link, .pagelink a:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+.pagelink a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+
+.pagelink a:active {
+    color: teal;
+    text-decoration: underline;
+}
+
 .pagelink:first-child, .pagelink:last-child{
     border-width: 0px;
 }
