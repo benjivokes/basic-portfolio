@@ -142,6 +142,10 @@ textarea {
     float: left;
     margin-bottom: 25px;
     margin-right: 25px;
+    overflow: hidden;
+}
+.portfolioitem img {
+    width: 275px;
 }
 .portfolioitemlabel {
     background: teal;
