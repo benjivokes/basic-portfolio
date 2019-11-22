@@ -107,7 +107,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-input {
+.inputfield  {
     width: 100%;
     border: 1px;
     border-style: solid;
@@ -127,6 +127,7 @@ textarea {
     color: gray;
     font-size: 14px;
 }
-form br {
-    margin-bottom: 10px;
+.button {
+    color: white;
+    background: teal;
 }
