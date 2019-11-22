@@ -1,11 +1,11 @@
 body {
-    background: lightgray;
+    background: whitesmoke;
     padding: 0px;
     margin: 0px;
 }
 #navbar {
     background: white;
-    border-bottom: gray;
+    border-bottom: lightgray;
     border-width: 0px 0px 1px 0px;
     border-style: solid;
     overflow: auto;
@@ -43,4 +43,14 @@ body {
 }
 .pagelink:first-child, .pagelink:last-child{
     border-width: 0px;
+}
+#content {
+    margin: auto;
+    width: 960px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: thin;
+    height: 100px;
+    background: white;
 }
