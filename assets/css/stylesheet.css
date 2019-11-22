@@ -131,3 +131,18 @@ textarea {
     color: white;
     background: teal;
 }
+
+.portfolioitem {
+    width: 275px;
+    height: 200px;
+    border: thin;
+    border-color: lightgray;
+    border-style: solid;
+}
+.portfolioitemlabel {
+    background: teal;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18pt;
+
+}
