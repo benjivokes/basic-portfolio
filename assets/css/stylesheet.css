@@ -27,9 +27,19 @@ body {
 }
 #links {
     float: right;
+    overflow: auto;
+    margin-top: 30px;
 
 }
 .pagelink {
     float: left;
-
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;  
+    border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: lightgray;
+    padding: 0px 5px;
+}
+.pagelink:first-child, .pagelink:last-child{
+    border-width: 0px;
 }
