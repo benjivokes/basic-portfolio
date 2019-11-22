@@ -1,12 +1,13 @@
 body {
-    background: gray;
+    background: lightgray;
     padding: 0px;
     margin: 0px;
 }
 #navbar {
     background: white;
-    border-bottom: #333;
+    border-bottom: gray;
     border-width: 0px 0px 1px 0px;
+    border-style: solid;
     overflow: auto;
 }
 #navbarcontent {
