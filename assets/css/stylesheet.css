@@ -1,21 +1,26 @@
 #navbar {
     background: #F00;
-    height: 100px;
+    height: 90px;
     border-bottom: #333;
     border-width: 0px 0px 1px 0px;
     
+}
+#navbarcontent {
+    width: 960px;
+    margin: auto;
 }
 #myname {
     font-family: Georgia, serif
     color: #FFF;
     font-size: 18pt;
     float: left;
+    margin-left:
 }
 #links {
     float: right;
 
 }
-.pagelinks {
+.pagelink {
     float: left;
 
 }
