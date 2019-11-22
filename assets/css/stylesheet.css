@@ -1,5 +1,8 @@
+body {
+    background: gray;
+}
 #navbar {
-    background: #F00;
+    background: white;
     height: 90px;
     border-bottom: #333;
     border-width: 0px 0px 1px 0px;
@@ -10,13 +13,16 @@
     margin: auto;
 }
 #myname {
-    font-family: Georgia, serif
-    color: #FFF;
+    font-family: Georgia, serif;
+    color: white;
     background: teal;
-    font-size: 18pt;
+    font-size: 24pt;
     float: left;
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    vertical-align: middle;
 }
 #links {
     float: right;
