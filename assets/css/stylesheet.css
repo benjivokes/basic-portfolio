@@ -12,9 +12,11 @@
 #myname {
     font-family: Georgia, serif
     color: #FFF;
+    background: teal;
     font-size: 18pt;
     float: left;
-    margin-left:
+    padding-left: 30px;
+    padding-right: 30px;
 }
 #links {
     float: right;
