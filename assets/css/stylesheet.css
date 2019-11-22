@@ -54,3 +54,20 @@ body {
     height: 100px;
     background: white;
 }
+footer {
+
+    border-top: 4px;
+    border-top-color: teal;
+    border-top-style: solid;
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background: gray;
+    text-align: center;
+    color: white;
+    font-size: 10pt;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
