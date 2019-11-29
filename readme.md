@@ -2,14 +2,36 @@
 **Author:** Benjamin Vokes ben@mym.ac
 
 ## Description
-Description of project goes here
+As a web developer
+
+I wanted to deploy a portfolio which
+
+Showcases 's my applications 
+
+For potential employers and clients.
+
+
 
 ## How to Install/View
 Download project, open index.html, located in the root directory, in a web browser.
 
 # Markup/Code Examples
-> This is an area of code.
+>   <header id="navbar">
+            <div id="nav" class="container">
+                <div class="row align-items-center">
+                    <div id="myname" class="col-sm-12 col-md-5">
+                        <b>Benjamin Vokes</b>
+                    </div>
+                    <div class="col-sm-12 col-md-7" id="links">
+                        <a href="index.html" class="navlinks">About</a> |
+                        Portfolio |
+                        <a href="contact.html" class="navlinks">Contact</a> 
+                        
+             
+                        
 
 ## Methods Used 
-Describe what technologies you used. HTML, CSS, JavaScript, Frameworks, etc. Since this is an educational project, describe how you utilized technologies (cool things on CSS, or structure of document)
+HTML
+
+CSS
 
